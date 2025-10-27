@@ -1,4 +1,4 @@
-# english_resume
+# english resume
 
 ### This is my English Resume for Foreign Companies.
 
